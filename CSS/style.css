@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+body {
+  margin: 0;
+}
+
+p {
+  background-color: pink;
+  margin: 16px 0;
+  width: 160px;
+  height: 160px;
+  /* overflow: hidden; */
+  overflow: scroll;
+  /* border: 8px solid blue;
+  padding: 8px;
+  box-sizing: border-box; */
+  /* border-width: 8px;
+  border-style: solid;
+  border-color: blue; */
+  /* border: 8px  dashed blue; */
+  /* border: 8px double blue;
+  padding: 16px; */
+}
